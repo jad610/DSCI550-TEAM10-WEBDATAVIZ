@@ -1,0 +1,82 @@
+[
+    {
+        "Country/Territory": "British Indian Ocean Territory",
+        "en": "90.17%",
+        "bn": "6.14%",
+        "it": "0.42%",
+        "fr": "0.03%",
+        "other": "3.24%"
+    },
+    {
+        "Country/Territory": "United Kingdom",
+        "en": "90.25%",
+        "bn": "0%",
+        "it": "9.65%",
+        "fr": "0%",
+        "other": "0.10%"
+    },
+    {
+        "Country/Territory": "India",
+        "en": "89.06%",
+        "bn": "5.29%",
+        "it": "0%",
+        "fr": "0%",
+        "other": "5.65%"
+    },
+    {
+        "Country/Territory": "Afghanistan",
+        "en": "97.89%",
+        "bn": "0%",
+        "it": "1.51%",
+        "fr": "0.15%",
+        "other": "0.45%"
+    },
+    {
+        "Country/Territory": "United States",
+        "en": "89.83%",
+        "bn": "1.34%",
+        "it": "7.87%",
+        "fr": "0%",
+        "other": "0.96%"
+    },
+    {
+        "Country/Territory": "France",
+        "en": "74.53%",
+        "bn": "0%",
+        "it": "23.59%",
+        "fr": "1.88%",
+        "other": "0%"
+    },
+    {
+        "Country/Territory": "Italy",
+        "en": "19.24%",
+        "bn": "0%",
+        "it": "80.76%",
+        "fr": "0%",
+        "other": "0%"
+    },
+    {
+        "Country/Territory": "Australia",
+        "en": "94.32%",
+        "bn": "0.66%",
+        "it": "4.80%",
+        "fr": "0.22%",
+        "other": "0%"
+    },
+    {
+        "Country/Territory": "Russia",
+        "en": "84.68%",
+        "bn": "2.25%",
+        "it": "12.61%",
+        "fr": "0.46%",
+        "other": "0%"
+    },
+    {
+        "Country/Territory": "Spain",
+        "en": "79.22%",
+        "bn": "0.00%",
+        "it": "20.05%",
+        "fr": "0.00%",
+        "other": "1%"
+    }
+]
