@@ -1,0 +1,62 @@
+[
+    {
+        "Country": "British Indian Ocean Territory",
+        "Male": "51.69%",
+        "Female": "20.62%",
+        "Others": "27.69%"
+    },
+    {
+        "Country": "United Kingdom",
+        "Male": "92.20%",
+        "Female": "5.29%",
+        "Others": "2.51%"
+    },
+    {
+        "Country": "Afghanistan",
+        "Male": "14.03%",
+        "Female": "69.03%",
+        "Others": "16.94%"
+    },
+    {
+        "Country": "India",
+        "Male": "54.48%",
+        "Female": "13.62%",
+        "Others": "31.90%"
+    },
+    {
+        "Country": "France",
+        "Male": "58.70%",
+        "Female": "14.75%",
+        "Others": "26.55%"
+    },
+    {
+        "Country": "Italy",
+        "Male": "95.32%",
+        "Female": "2.34%",
+        "Others": "2.34%"
+    },
+    {
+        "Country": "United States",
+        "Male": "62.59%",
+        "Female": "22.11%",
+        "Others": "15.30%"
+    },
+    {
+        "Country": "Spain",
+        "Male": "86.93%",
+        "Female": "4.95%",
+        "Others": "8.12%"
+    },
+    {
+        "Country": "Russia",
+        "Male": "74.82%",
+        "Female": "19.60%",
+        "Others": "5.67%"
+    },
+    {
+        "Country": "Pakistan",
+        "Male": "62.30%",
+        "Female": "14.29%",
+        "Others": "23.41%"
+    }
+]

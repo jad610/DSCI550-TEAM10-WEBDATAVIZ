@@ -1,0 +1,80 @@
+[
+  {
+    "Row Labels": "12-17",
+    "Sum of Inequality": "3209",
+    "Sum of Science": "3214",
+    "Sum of Education": "3259",
+    "Sum of History": "3524",
+    "Sum of Environment": "3258",
+    "Sum of Food": "3368",
+    "Sum of Health": "3344",
+    "Sum of Politics": "3641",
+    "Sum of Entertainment": "3302",
+    "Sum of Sports": "3723"
+  },
+  {
+    "Row Labels": "18-23",
+    "Sum of Inequality": "11305",
+    "Sum of Science": "11464",
+    "Sum of Education": "11720",
+    "Sum of History": "11384",
+    "Sum of Environment": "11702",
+    "Sum of Food": "12771",
+    "Sum of Health": "13262",
+    "Sum of Politics": "11655",
+    "Sum of Entertainment": "13199",
+    "Sum of Sports": "12317"
+  },
+  {
+    "Row Labels": "24-29",
+    "Sum of Inequality": "2544",
+    "Sum of Science": "2484",
+    "Sum of Education": "2484",
+    "Sum of History": "2472",
+    "Sum of Environment": "2460",
+    "Sum of Food": "2597",
+    "Sum of Health": "2885",
+    "Sum of Politics": "2628",
+    "Sum of Entertainment": "2560",
+    "Sum of Sports": "3855"
+  },
+  {
+    "Row Labels": "30-35",
+    "Sum of Inequality": "733",
+    "Sum of Science": "704",
+    "Sum of Education": "715",
+    "Sum of History": "730",
+    "Sum of Environment": "726",
+    "Sum of Food": "812",
+    "Sum of Health": "823",
+    "Sum of Politics": "814",
+    "Sum of Entertainment": "869",
+    "Sum of Sports": "1302"
+  },
+  {
+    "Row Labels": "36-41",
+    "Sum of Inequality": "1297",
+    "Sum of Science": "1296",
+    "Sum of Education": "1306",
+    "Sum of History": "1309",
+    "Sum of Environment": "1293",
+    "Sum of Food": "1312",
+    "Sum of Health": "1357",
+    "Sum of Politics": "1394",
+    "Sum of Entertainment": "1331",
+    "Sum of Sports": "1490"
+  },
+  {
+    "Row Labels": "42-47",
+    "Sum of Inequality": "823",
+    "Sum of Science": "853",
+    "Sum of Education": "830",
+    "Sum of History": "874",
+    "Sum of Environment": "854",
+    "Sum of Food": "888",
+    "Sum of Health": "1074",
+    "Sum of Politics": "976",
+    "Sum of Entertainment": "879",
+    "Sum of Sports": "1103"
+  }
+]
