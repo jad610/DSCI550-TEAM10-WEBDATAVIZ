@@ -55,7 +55,7 @@ function draw(words) {
 // create legend
 var legend = svg.append("g")
   .attr("class", "legend")
-  .attr("transform", "translate(" + (width + 200) + "," + (height - 130) + ")");
+  .attr("transform", "translate(" + (width + 200) + "," + (height + 30) + ")");
 
 legend.append("text")
   .text("Legend:")
