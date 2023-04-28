@@ -5,7 +5,7 @@ var margin = {top: 5, right: 5, bottom: 5, left: 5},
 
 // create svg object
 var svg = d3.select("#my_dataviz").append("svg")
-    .attr("width", width + margin.left + margin.right + 200)
+    .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom + )
   .append("g")
     .attr("transform",
