@@ -1,5 +1,5 @@
 // set dimensions and margins
-var margin = {top: 5, right: 5, bottom: 5, left: 5},
+var margin = {top: 5, right: 300, bottom: 5, left: 5},
     width = 600 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
