@@ -2,8 +2,8 @@
 d3.json("top20_overall_all.json").then(function (data) {
 
   // dimensions
-  var width = 1700;
-  var height = 700;
+  var width = 900;
+  var height = 600;
 
   // d3 hierarchy and value accessor
   var hierarchy = d3.hierarchy(data);
