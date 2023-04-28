@@ -1,7 +1,7 @@
 // set dimensions and margins
 var margin = {top: 5, right: 5, bottom: 5, left: 5},
-    width = 1200 - margin.left - margin.right,
-    height = 1200 - margin.top - margin.bottom;
+    width = 800 - margin.left - margin.right,
+    height = 800 - margin.top - margin.bottom;
 
 // create svg object
 var svg = d3.select("#my_dataviz").append("svg")
