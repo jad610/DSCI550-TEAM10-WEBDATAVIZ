@@ -97,7 +97,7 @@ d3.json("top20_overall_all.json").then(function (data) {
 // create legend
 var legend = svg.append("g")
 .attr("class", "legend")
-.attr("transform", "translate(" + (width + 120) + ", 20)");
+.attr("transform", "translate(" + (width + 80) + ", 10)");
 
 // legend title
 legend.append("text")
