@@ -18,8 +18,8 @@ d3.json("top20_overall_all.json").then(function (data) {
   // svg container for treemap
   var svg = d3.select("body")
     .append("svg")
-    .attr("width", width)
-    .attr("height", height+200);
+    .attr("width", width + 250)
+    .attr("height", height);
 
   // create treemap tiles
   var tiles = svg.selectAll(".tile")
