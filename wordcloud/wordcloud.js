@@ -1,7 +1,7 @@
 // set dimensions and margins
 var margin = {top: 5, right: 5, bottom: 5, left: 5},
-    width = 800 - margin.left - margin.right,
-    height = 800 - margin.top - margin.bottom;
+    width = 600 - margin.left - margin.right,
+    height = 600 - margin.top - margin.bottom;
 
 // create svg object
 var svg = d3.select("#my_dataviz").append("svg")
@@ -55,7 +55,7 @@ function draw(words) {
 // create legend
 var legend = svg.append("g")
   .attr("class", "legend")
-  .attr("transform", "translate(" + (width - 750) + "," + (height - 130) + ")");
+  .attr("transform", "translate(" + (width - 250) + "," + (height - 130) + ")");
 
 legend.append("text")
   .text("Legend:")
