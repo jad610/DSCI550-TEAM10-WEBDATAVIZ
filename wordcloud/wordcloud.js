@@ -1,12 +1,12 @@
 // set dimensions and margins
 var margin = {top: 5, right: 5, bottom: 5, left: 5},
-    width = 600 - margin.left - margin.right,
+    width = 800 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
 // create svg object
 var svg = d3.select("#my_dataviz").append("svg")
-    .attr("width", width + margin.left + margin.right + 400)
-    .attr("height", height + margin.top + margin.bottom + 400)
+    .attr("width", width + margin.left + margin.right + 200)
+    .attr("height", height + margin.top + margin.bottom + )
   .append("g")
     .attr("transform",
           "translate(" + margin.left + "," + margin.top + ")");
